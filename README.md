@@ -1,6 +1,6 @@
 # Taller 4 - Integrantes
 
-Emmanuel Cadena
+Emanuel Cadena
 Bryant Graterol
 Héctor Gonzalez
 
