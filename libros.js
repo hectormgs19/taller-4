@@ -17,8 +17,6 @@ const registrarLibro = (lista) => {
 
   if (estado === "prestado") {
     prestado = true
-  } else {
-    prestado = false
   }
 
   const nuevoLibro = {
