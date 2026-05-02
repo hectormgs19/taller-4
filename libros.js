@@ -66,4 +66,3 @@ const buscarLibrosPorAutor = (lista) => {
   console.log('-----Libros encontrados por autor-----')
   console.log(librosAutor)
 }
->>>>>>> 1240219af6c70642fff9f9032387c24745507fbe
